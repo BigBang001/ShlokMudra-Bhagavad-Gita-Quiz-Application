@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>ShlokMudra is an innovative quiz application designed to offer an interactive learning experience based on the teachings of the Shrimad Bhagavad Gita. It combines innovative hand gesture recognition with interactive quizzes for enhanced learning. Utilizes advanced computer vision for seamless interaction.</em>
-</p>
+</p><br>
 
 ### Purpose
 
@@ -16,7 +16,7 @@ The main objectives behind developing ShlokMudra are as follows:
 
 4. **Track Learning Progress:** The application allows users to track their quiz performance and progress over time, enabling them to monitor their learning journey and identify areas for improvement.
 
-5. **Utilize Innovative Technology:** By leveraging advanced computer vision techniques for hand gesture recognition and integrating audio feedback functionality, ShlokMudra showcases the potential of technology to enhance educational experiences.
+5. **Utilize Innovative Technology:** By leveraging advanced computer vision techniques for hand gesture recognition and integrating audio feedback functionality, ShlokMudra showcases the potential of technology to enhance educational experiences.<br>
 
 ### Key Features
 
@@ -28,20 +28,20 @@ The main objectives behind developing ShlokMudra are as follows:
 
 - **AR Certificate Generation:** Upon completing quizzes successfully, users can generate personalized certificates of appreciation using augmented reality technology.
 
-- **Audio Feedback:** ShlokMudra provides audio feedback using the Pygame and Pyttsx3 libraries, enhancing the user experience and engagement.
+- **Audio Feedback:** ShlokMudra provides audio feedback using the Pygame and Pyttsx3 libraries, enhancing the user experience and engagement.<br>
 
 ### Technical Details
 
 - **Programming Language:** Python (OpenCV)
 - **Gesture Recognition:** CVZone library
 - **Quiz Functionality:** Efficient algorithms
-- **Audio Feedback:** Pygame & Pyttsx3 integration
+- **Audio Feedback:** Pygame & Pyttsx3 integration<br>
 
 ### How to Use
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/bigbang001/python-projects.git
+   git clone https://github.com/BigBang001/python-projects.git
   
 
 2. **Navigate to the ShlokMudra Directory:**
@@ -57,7 +57,7 @@ The main objectives behind developing ShlokMudra are as follows:
 4. **Run the Quiz Application:**
    
    python shlokmudra_quiz.py
-   
+   <br>
 
 ### Contributing
 
