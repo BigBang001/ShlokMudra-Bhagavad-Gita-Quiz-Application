@@ -37,6 +37,15 @@ The main objectives behind developing ShlokMudra are as follows:
 - **Quiz Functionality:** Efficient algorithms
 - **Audio Feedback:** Pygame & Pyttsx3 integration<br>
 
+### Additional Resources
+
+To enhance the user experience and functionality of ShlokMudra, consider importing the following resources:
+
+- **Audio Files:** Include audio files for providing feedback and guidance during quiz interactions.
+- **Background Images:** Use captivating background images to create an engaging visual environment for the quiz application.
+- **Shloka Text Files:** Import text files containing the shlokas of the Shrimad Bhagavad Gita to incorporate additional educational content.
+
+
 ### How to Use
 
 1. **Clone the Repository:**
