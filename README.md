@@ -50,7 +50,7 @@ To enhance the user experience and functionality of ShlokMudra, consider importi
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/BigBang001/python-projects.git
+   git clone https://github.com/BigBang001/ShlokMudra-Bhagvad-Gita-Quiz-Apllication.git
   
 
 2. **Navigate to the ShlokMudra Directory:**
