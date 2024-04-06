@@ -41,10 +41,9 @@ The main objectives behind developing ShlokMudra are as follows:
 
 To enhance the user experience and functionality of ShlokMudra, consider importing the following resources:
 
+- **Shloka CSV File:** Import csv file containing the questions based on shlokas of the Shrimad Bhagavad Gita to incorporate additional educational content.
 - **Audio Files:** Include audio files for providing feedback and guidance during quiz interactions.
 - **Background Images:** Use captivating background images to create an engaging visual environment for the quiz application.
-- **Shloka Text Files:** Import text files containing the shlokas of the Shrimad Bhagavad Gita to incorporate additional educational content.
-
 
 ### How to Use
 
