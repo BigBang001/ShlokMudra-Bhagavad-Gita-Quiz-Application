@@ -26,7 +26,7 @@ The main objectives behind developing ShlokMudra are as follows:
 
 - **Track Progress:** Users can track their quiz performance and monitor their learning progress over time within the application.
 
-- **AR Certificate Generation:** Upon completing quizzes successfully, users can generate personalized certificates of appreciation using augmented reality technology.
+- **AR Certificate Generation:** Upon completing quizzes successfully, users can generate personalized certificates of appreciation using augmented reality technology. **To scan the AR code, users need to install an AR-compatible app.**
 
 - **Audio Feedback:** ShlokMudra provides audio feedback using the Pygame and Pyttsx3 libraries, enhancing the user experience and engagement.<br>
 
@@ -41,7 +41,7 @@ The main objectives behind developing ShlokMudra are as follows:
 
 To enhance the user experience and functionality of ShlokMudra, consider importing the following resources:
 
-- **Shloka CSV File:** Import csv file containing the questions based on shlokas of the Shrimad Bhagavad Gita to incorporate additional educational content.
+- **Shloka CSV File:** Import a CSV file containing the questions based on shlokas of the Shrimad Bhagavad Gita to incorporate additional educational content.
 - **Audio Files:** Include audio files for providing feedback and guidance during quiz interactions.
 - **Background Images:** Use captivating background images to create an engaging visual environment for the quiz application.
 
@@ -49,22 +49,27 @@ To enhance the user experience and functionality of ShlokMudra, consider importi
 
 1. **Clone the Repository:**
    
+   ```sh
    git clone https://github.com/BigBang001/ShlokMudra-Bhagavad-Gita-Quiz-Application.git
-  
+   ```
 
 2. **Navigate to the ShlokMudra Directory:**
    
+   ```sh
    cd python-projects/shlokmudra-quiz-application
-   
+   ```
 
 3. **Install Dependencies:**
    
+   ```sh
    pip install -r requirements.txt
-   
+   ```
 
 4. **Run the Quiz Application:**
    
+   ```sh
    python shlokmudra_quiz.py
+   ```
    <br>
 
 ### Contributing
@@ -72,7 +77,7 @@ To enhance the user experience and functionality of ShlokMudra, consider importi
 If you'd like to contribute to the ShlokMudra project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch: git checkout -b feature/new-feature.
-3. Make your changes and commit them: git commit -m "Add new feature".
-4. Push to the branch: git push origin feature/new-feature.
+2. Create a new branch: `git checkout -b feature/new-feature`.
+3. Make your changes and commit them: `git commit -m "Add new feature"`.
+4. Push to the branch: `git push origin feature/new-feature`.
 5. Create a pull request.
