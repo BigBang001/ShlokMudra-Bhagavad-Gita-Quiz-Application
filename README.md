@@ -30,12 +30,17 @@ The main objectives behind developing ShlokMudra are as follows:
 
 - **Audio Feedback:** ShlokMudra provides audio feedback using the Pygame and Pyttsx3 libraries, enhancing the user experience and engagement.<br>
 
-### Technical Details
 
-- **Programming Language:** Python (OpenCV)
-- **Gesture Recognition:** CVZone library
-- **Quiz Functionality:** Efficient algorithms
-- **Audio Feedback:** Pygame & Pyttsx3 integration<br>
+### Technical Details
+- **Programming Language:** Python with OpenCV for image processing.
+
+- **Gesture Recognition:** Utilizes CVZone library for precise and responsive hand gesture detection.
+
+- **Quiz Functionality:** Implements optimized algorithms for dynamic quiz management and user interaction.
+
+- **Audio Feedback:** Integrates Pygame and Pyttsx3 libraries to deliver real-time audio responses and notifications.<br>
+
+
 
 ### Additional Resources
 
